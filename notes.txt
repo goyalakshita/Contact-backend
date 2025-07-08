@@ -1,0 +1,7 @@
+Dependencies installed and their use:
+bcrypt: fro hashing password and comparing . Crucial fro storing password in database
+dotenv: Loades environment variable from .env into process.env 
+express: web framework for node.js. Allows to build REST api's , handle routing , middleware
+express-async-handler: simplifies error handling in async route /middleware function by wrapping them and auto forwarding error
+jsonwebtoken: allows to sign and verify JWT 
+mongoose: is a toll that halps us work with mongodb easily in node.js
